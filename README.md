@@ -1,4 +1,4 @@
-# 🧼 FrameFix: PC Gamer Optimizer
+# 🧼 FrameFix: PC Game Optimizer
 
 **FrameFix** is an open-source desktop app built for gamers who want to squeeze every last drop of performance from their PC. No bloat, no BS—just a clean GUI that actually clears your system junk, kills useless tasks, and helps you game smoother.
 
